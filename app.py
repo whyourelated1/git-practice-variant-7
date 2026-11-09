@@ -1,6 +1,6 @@
 from pricing import divide
 
-TITLE = "Online store payments"
+TITLE = "Payment service"
 
 
 def main():
