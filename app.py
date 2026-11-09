@@ -16,7 +16,7 @@ LANGUAGE = "ru"
 
 
 # Settings for the third developer
-CURRENCY = "RUB"
+CURRENCY = "RUB"  # ISO 4217
 
 
 if __name__ == "__main__":
